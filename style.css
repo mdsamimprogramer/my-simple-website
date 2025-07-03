@@ -1,4 +1,14 @@
-div{
+.a{
     background-color: blueviolet;
     padding: 10px;
+    width: 80%;
+    margin: 20px;
+    border-radius: 20px;
+}
+.b{
+    background-color: rgb(226, 43, 110);
+    padding: 10px;
+    width: 80%;
+    margin: 20px;
+    border-radius: 20px;
 }
